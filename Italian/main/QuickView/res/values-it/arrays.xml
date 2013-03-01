@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="defalut_dest_list_activity">
+        <item>Contatti</item>
+        <item>Nuovo indirizzo Email</item>
+        <item>Nuovo numero di Telefono</item>
+    </string-array>
+</resources>
